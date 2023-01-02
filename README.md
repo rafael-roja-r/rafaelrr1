@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Me llamo RAFAEL ROJAS, Estudie la carrera de computación e informática, actualmente estoy llevando el curso de Oracle, para ser la nueva generación de programadores de Sudamérica, con conocimientos en diseño y automatización. Mejorando un 20% en el rendimiento de las máquinas y los usuarios, para generar nuevos productos para el área de diseño inmobiliario. Desarrollador web con conocimientos en diferentes campos como audiovisuales, animación digital
 
 **rafaelrr1/rafaelrr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
