@@ -18,7 +18,6 @@ I consider myself a person with a solid work ethic and a constant commitment to 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/rafaelrr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/rafaelrr1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-rojaspe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-rojaspe/" height="30" width="40" /></a>
 <a href="https://discord.gg/josrey#6694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="josrey#6694" height="30" width="40" /></a>
 </p>
