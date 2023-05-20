@@ -8,7 +8,7 @@ My goal as a professional is to continue evolving in the world of programming, a
 I consider myself a person with a solid work ethic and a constant commitment to learning and continuous improvement. I am excited to be able to contribute my experience and skills to new projects.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelrr1&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelrr1" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelrr1" alt="rafaelrr1" /></a> </p>
 
